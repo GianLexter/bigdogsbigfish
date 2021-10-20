@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Gianne Lexter S. Baldonasa</title>  
+  </head>
+  <body>
+    <td><img src="profile pic.png" width="200" height="200"alt="My test image">
+      <h1> Gianne Lexter Baldonasa </h1>
+      <p><em> I am the CEO and founder of <a href="https://www.nike.com/ph/launch"> Nike SKRS</a></strong></em></p>
+      <p> I am currently the highest-ranking executive in a S.S. Incorporation and
+         managing the overall operations and resources of a company </p>
+    <table  border="1" cellspacing="10"> 
+<thead>
+<hr>
+<h3>Education</h3>
+<ul>
+	<li>Tertiary: Adamson University</li>
+	<li>Secondary: Olivarez College </li>
+	<li>Elementary: Paranaque Elementary School</li>
+</ul>
+<p><a href="hobbies.html">My Hobbies</a></P>
+<p><a href="Contacts.html">My Contacts</a></p>
+</hr>
+<h3>My Work Experience</h3>
+<table  border="1" cellspacing="10"> 
+<thead>
+
+<tr>
+	<th>Dates</th>
+	<th>Work</th>
+	<th>Company</th>
+</tr>
+</thead>
+<tr>
+	<td>2014 - 2016</td>
+	<td>Webpage Developer</td>
+	<td>Nike PH</td>
+</tr>
+<tr>
+	<td>2016 - 2017</td>
+	<td>Website Network Security</td>
+	<td>Jordan Manila</td>
+</tr>
+<tr>
+	<td>2017 - 2020</td>
+	<td>IT Consultant</td>
+	<td>Titan22</td>
+</tr>
+<tr>
+	<td>2021 - present</td>
+	<td>Founder and Ceo</td>
+	<td>Nike SNKRS</td>
+</tr>
+
+</table>
+
+<hr>
+<h3>Skills</h3>
+<table border="1">
+	<thead>
+<tr>
+	<th>Core Skills</th>
+	<th>Rate</th>
+</tr>
+	</thead>
+<tr>
+	<td>Speaking</td>
+	<th>🔟</th>
+</tr>
+
+<tr>
+	<td>Analyzing</td>
+	<th>🔟</th>
+</tr>
+
+<tr>
+	<td>Communication</td>
+	<th>🔟</th>
+</tr>
+
+<tr>
+	<td>Technology Literate</td>
+	<th>🔟</th>
+</tr>
+
+</table>
+
+	</body>
+	</html>
+ </body>
